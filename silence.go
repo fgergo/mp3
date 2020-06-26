@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/tcolgate/mp3/internal/data"
+	"github.com/fgergo/mp3/internal/data"
 )
 
 var (
